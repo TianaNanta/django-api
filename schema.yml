@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: Django API
+  version: 0.1.0
+  description: This is a Django API project.
+paths: {}
+components: {}
